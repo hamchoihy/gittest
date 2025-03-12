@@ -1,2 +1,2 @@
-This is a description of project.
+This is a project description.
 My project is test git command for me. 
